@@ -1,0 +1,14 @@
+/* Fonts */
+@import url("https://fonts.googleapis.com/css2?family=Italiana&display=swap");
+
+body {
+  background-color: #f2dbae;
+}
+
+h1 {
+  text-align: center;
+  margin-top: 50%;
+  color: #012744;
+  font-family: "Italiana", serif;
+  font-size: 5rem;
+}
